@@ -10,7 +10,7 @@
 <p>This is the first paragraph.
 It isn't very interesting.</p>
 <p>
-  <ing src="ing/cat.png" />
+  <img src="ing/cat.png" />
 </p>            
 
 <hr>
