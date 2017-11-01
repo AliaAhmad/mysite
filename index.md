@@ -1,9 +1,14 @@
-Language Learning with Me
+<ul class="breadcrumb">
+  <li>Home</li>
+</ul>
 
-Section One: What you can learn here.
 
-This is the first paragraph.
-It isn't very interesting. </h2>
+<h1>Language Learning with Me</h1>
+
+<h2>Section One: What you can learn here.</h2>
+
+<p>This is the first paragraph.
+It isn't very interesting.</p>
 
 <hr>
 <h2>Some HTML Formatting stuff </h2>
