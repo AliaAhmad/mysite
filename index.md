@@ -12,6 +12,7 @@ It isn't very interesting.</p>
 <p>
   <ing src="ing/cat.png" />
 </p>            
+
 <hr>
 <h2>Some HTML Formatting stuff </h2>
 <h3> Lists  </h3>
